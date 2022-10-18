@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>DHEEPI RESUME</title>
+    <link rel="stylesheet" href="Proj.css">
+
+</head>
+
+<body>
+    
+    <div class="content">
+
+        <div class="leftbox">
+
+            <img class="dheepi-img" src="DheepiPhoto.jpg" \>
+
+            <div class="contact">
+                <div class="me-con">
+                    <div class="text-con"></div>
+                    <h1>Dheepika R</h1><br>
+                    <h5>dheepikaraja2003@gmail.com</h5>
+                    <h5>+ 91 9994413032</h5>
+                    <h5>Salem,TamilNadu,India</h5>
+                    <h5>https://www.linkedin.com/in/dheepika-raja-0a0335217</h5><br>
+                </div>
+            </div>
+
+            <div class="tech-skills">
+                <h4><u>TECHNICAL SKILLS</u></h4>
+                <div class="tech">
+                    <li>C Basics</li>
+                    <li>Java Basics</li>
+                    <li>DBMS Basics</li>
+                    <li>Data Structures Basics</li><br>
+                </div>
+            </div>
+
+            <div class="comp-skills">
+                <h4><u>COMPUTER SKILLS</u></h4>
+                <div class="comp">
+                    <li>Tinkercad</li>
+                    <li>Multisim</li>
+                    <li>Eclipse</li>
+                    <li>Dev c++</li><br>
+                </div>
+            </div>
+
+            <div class="pers-skills">
+                <h4><u>PERSONAL SKILLS</u></h4>
+                <div class="pers">
+                    <li>Team Work</li>
+                    <li>Honesty</li>
+                    <li>Dedication</li><br>
+                </div>
+            </div>
+
+            <div class="langknown">
+                <h4><u>LANGUAGES KNOWN</u></h4>
+                <div class="lang">
+                    <li>English</li>
+                    <li>Tamil</li><br>
+                </div>
+            </div>
+
+            <div class="projec-title">
+                <h4><u>PROJECTS</u></h4>
+                <div class="pr">
+                    <li><b>Password Based Circuit Breaker</b></li><br>
+                    <p>- In this project, password is used to control the transmission
+                        line to ensure the safety of the line man using arduino uno.</p><br>
+                    <li><b>Password Based Door Lock and Open System</b></li><br>
+                    <p>- In this project, door is opened and closed by password using 8051
+                        microcontroller.</p>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="rightbox">
+
+            <div class="obj-title">
+                <h4><u>OBJECTIVE</u></h4>
+                <div class="ob">
+                    <p>To implement my ideas in various opportunities for the company’s growth and to develop my skills to lead a successful career.</p>
+                </div>
+            </div>
+
+            <div class="cert-title">
+                <h4><u>CERTIFICATIONS</u></h4>
+                <div class="cr">
+                    <h4>COURSERA CERTIFICATION</h4><br>
+                    <li>Linear Circuits 1: DC Analysis</li><br>
+                    <h4>SKILLRACK CERTIFICATION</h4><br>
+                    <li>C - Basics programming course</li>
+                    <li>Data Structure - Basics programming course</li>
+                    <li>Java - Basics programming course</li>
+                    <li>Sql - Basics programming course</li>
+                    <li>Java - 50 very easy programming course</li><br>
+                    <h4>POSTER CERTIFICATION</h4><br>
+                    <li>National Energy Conservation Week</li><br>
+                    <h4>POWERPOINT CERTIFICATION</h4><br>
+                    <li>National Level Online Competition</li>
+                </div>
+            </div>
+
+            <div class="educ-title">
+                <h4><u>EDUCATION</u></h4>
+                <div class="ed">
+                    <li><b>B.E - EEE</b></li><br>
+                    <p>At Karpagam College of Engineering<br>
+                        - Present @ Coimbatore, India<br>
+                        CGPA = 8.72</p><br>
+                    <li><b>HIGHER SECONDARY</b></li><br>
+                    <p>At Bharathiyar Higher Secondary School<br>
+                        - March 2020 @Attur(Salem), India<br>
+                        Perctange= 72%</p><br>
+                    <li><b>SSLC</b></li><br>
+                    <p>At Sree Vidhya Vikas Matric Higher Secondary School<br>
+                        - March 2018 @Gudamalai(Salem), India<br>
+                        Perctange= 94.4%</p>
+                </div>
+            </div>
+
+            <div class="decl-title">
+                <h4><u>DECLARATION</u></h4>
+                <div class="dl">
+                    <p>Hereby, I declare that the information above mentioned are true to the best of my knowledge and belief.</p>
+                </div>
+            </div>
+
+            <div class="last-title">
+                <table>
+                    <tr>
+                        <th style="text-align: left;">DATE : 17/10/2022</th>
+                        <th style="padding-left: 300px;">DHEEPIKA R</th>
+                    </tr>
+                    <tr>
+                        <td><b>PLACE : Salem</b></td>
+                    </tr>
+                </table>
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
